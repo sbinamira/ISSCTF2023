@@ -1,0 +1,5 @@
+use one of these commands:
+
+./programName | grep -o "retroCTF{.*}"
+or
+grep -o "retroCTF{.*}" filename.txt -- if u output program into file

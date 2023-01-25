@@ -1,0 +1,2 @@
+1. user must use the command 'find /directory/to/search/ -name flag.txt'
+2. flag is in folder27

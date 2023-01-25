@@ -1,0 +1,1 @@
+user must use the 'ls -a' command to find the hidden file

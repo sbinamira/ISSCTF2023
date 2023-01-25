@@ -1,0 +1,4 @@
+slicedText = slice(0,123,3)
+
+for x in passw0rd[slicedText]:
+	password += x
